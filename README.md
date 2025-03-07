@@ -6,7 +6,7 @@ This repository contains an ETL (Extract, Transform, Load) pipeline that extract
 ## ETL Architecture Diagram
 This is the architecture of the Spotify ETL pipeline:
 
-![ETL Architecture](images/image.png)
+![ETL Architecture](image.png)
 
 ## Project Structure
 ```
