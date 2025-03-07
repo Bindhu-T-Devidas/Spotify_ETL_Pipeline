@@ -87,9 +87,6 @@ Included screenshots for reference:
 - S3 bucket structure
 - JSON raw data and processed CSV files
 
-## Contribution
-Feel free to fork this repository and improve the pipeline!
-
 ## License
 This project is licensed under the MIT License.
 
